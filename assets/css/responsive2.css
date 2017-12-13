@@ -1,0 +1,215 @@
+
+
+
+/* ==========================================================================
+   Mobile styles
+   ========================================================================== */
+@media (min-width: 320px) and (max-width: 399px){
+  h1 {
+    font-size: 55px;
+    line-height: 39px;
+  }
+    #widthHeaderTilte p{
+    font-size: 19px;
+  }
+  #rowChangeButton {
+      padding-left: 23%;
+    }
+  #widthHeaderTilte{
+    width: 100%;
+    margin-left: 0%;
+  }
+  .colorTittleh1_A {
+    font-size: 28px;
+  }
+  .colorTittleh1_b {
+    font-size: 28px;
+  }
+  #button2Bis {
+    padding: 22px 22px;
+    width: 265px;
+  }
+  .header-info {
+    margin-bottom: 43%;
+  }
+  .col-xs-6 {
+    width: 95%;
+  }
+  #rowChangeButton {
+    padding-left: 3%;
+    width: 100%;
+  }
+  /* ----------------   section 2 -------------------*/
+  .civiliteMiddle input {
+    margin-left: 40px;
+  }
+  #form2 {
+    height: 1200px;
+  }
+   .formulaire {
+    width: 100%;
+  }
+   #insideForm3{
+    width: 95%;
+   }
+   .checkBoxDesign {
+    margin-right: 18px;
+  }
+
+}
+
+/* Landscape phones and down */
+@media (min-width: 400px) and (max-width: 480px){
+  h1 {
+    font-size: 55px;
+    line-height: 39px;
+  }
+    #widthHeaderTilte p{
+    font-size: 19px;
+  }
+  #rowChangeButton {
+      padding-left: 23%;
+    }
+  #widthHeaderTilte{
+    width: 100%;
+    margin-left: 0%;
+  }
+  .colorTittleh1_A {
+    font-size: 28px;
+  }
+  .colorTittleh1_b {
+    font-size: 28px;
+  }
+  #button2Bis {
+    padding: 22px 22px;
+    width: 265px;
+  }
+  .header-info {
+    margin-bottom: 37%;
+  }
+  .col-xs-6 {
+    width: 95%;
+  }
+  #rowChangeButton {
+    padding-left: 14%;
+    width: 100%;
+  }
+  /* ----------------   section 2 -------------------*/
+   .formulaire {
+    width: 100%;
+  }
+   #insideForm3{
+    width: 95%;
+   }
+   .checkBoxDesign {
+    margin-right: 40px;
+  }
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (min-width: 481px) and (max-width: 600px){
+  h1 {
+    font-size: 55px;
+    line-height: 39px;
+  }
+    #widthHeaderTilte p{
+    font-size: 19px;
+  }
+  #rowChangeButton {
+      padding-left: 23%;
+    }
+  #widthHeaderTilte{
+    width: 90%;
+    margin-left: 5%;
+  }
+  .colorTittleh1_A {
+    font-size: 30px;
+  }
+  .colorTittleh1_b {
+    font-size: 30px;
+  }
+  #button2Bis {
+    padding: 22px 22px;
+    width: 265px;
+  }
+  .header-info {
+    margin-bottom: 37%;
+  }
+  .col-xs-6 {
+    width: 95%;
+  }
+  #rowChangeButton {
+    padding-left: 14%;
+    width: 100%;
+  }
+  /* ----------------   section 2 -------------------*/
+   .formulaire {
+    width: 100%;
+  }
+   #insideForm3{
+    width: 95%;
+   }
+   .checkBoxDesign {
+    margin-right: 15px;
+  }
+}
+
+
+
+/* Landscape phone to portrait tablet */
+@media (min-width: 601px) and (max-width: 767px){
+
+  #rowChangeButton {
+      padding-left: 23%;
+    }
+  #widthHeaderTilte{
+    width: 90%;
+    margin-left: 5%;
+  }
+  .colorTittleh1_A {
+    font-size: 38px;
+  }
+  .colorTittleh1_b {
+    font-size: 38px;
+  }
+  .row {
+    margin-top: 20px;
+  }
+  #button2Bis {
+    padding: 22px 22px;
+  }
+  /* ----------------   section 2 -------------------*/
+   .formulaire {
+    width: 95%;
+  }
+   #insideForm3{
+    width: 95%;
+   }
+   .checkBoxDesign {
+    margin-right: 25px;
+  }
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 991px) {
+
+ 
+  /* -----------------------------------------
+              header
+   ------------------------------------------ */
+  #rowChangeButton {
+      padding-left: 23%;
+    }
+  #widthHeaderTilte{
+    width: 90%;
+    margin-left: 5%;
+
+  }
+  /* ----------------   section 2 -------------------*/
+   #insideForm3{
+    width: 90%;
+   }
+
+}
